@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "bfds.supoja.App",
+            "projectName": "bfds-supoja-0226"
+        }
+    ]
+}
